@@ -7,6 +7,8 @@ Plugin de adaptación de FacturaScripts a <b>Guatemala</b>.
     Seleccionar pais, moneda por defecto.
     Agrega nombre de departamentos
     </li>
+    <li>
     Agregado iva, regimen de impuestos
+    </li>
    
 </ul>
